@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f12529d-516b-40a6-bca5-19230640b382" name="Changes" comment="Caso 2: Calcular promedio con conjunto de un elemento en (Verde)" />
+    <list default="true" id="6f12529d-516b-40a6-bca5-19230640b382" name="Changes" comment="Caso 4: Calcular el promedio con un conjunto de elementos (Rojo)">
+      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestConjunto.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +142,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729021875588</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Caso 3: Calcular el promedio con un conjunto de elementos (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729022074967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022074967</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Caso 3: Calcular el promedio con un conjunto de elementos (Verde)">
+      <option name="closed" value="true" />
+      <created>1729022218444</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022218444</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Caso 4: Calcular el promedio con un conjunto de elementos (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729022475034</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022475034</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,7 +175,10 @@
     <MESSAGE value="Caso 1: Calcular promedio con conjunto vacio(verde)" />
     <MESSAGE value="Caso 2: Calcular promedio con conjunto de un elemento en (Rojo)" />
     <MESSAGE value="Caso 2: Calcular promedio con conjunto de un elemento en (Verde)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 2: Calcular promedio con conjunto de un elemento en (Verde)" />
+    <MESSAGE value="Caso 3: Calcular el promedio con un conjunto de elementos (Rojo)" />
+    <MESSAGE value="Caso 3: Calcular el promedio con un conjunto de elementos (Verde)" />
+    <MESSAGE value="Caso 4: Calcular el promedio con un conjunto de elementos (Rojo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 4: Calcular el promedio con un conjunto de elementos (Rojo)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
